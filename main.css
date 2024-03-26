@@ -58,7 +58,7 @@ table {
 
 body {
   font-size: 100%;
-    background-color: #f8f8ff;
+    background-color: #6bab57;
 }
 
 .title {
@@ -78,6 +78,7 @@ body {
     font-size: 4vw;
     font-family: "Cinzel";
     font-weight: 100;
+    color: #6bab57;
 }
 
 .standard_button {
